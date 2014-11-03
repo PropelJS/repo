@@ -1,4 +1,4 @@
 [submodule "modules/gulp-module"]
 	path = modules/gulp-module
 	url = https://github.com/PropelJS/gulp-module.git
-	branch = alpha
+	branch = beta
