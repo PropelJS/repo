@@ -547,4 +547,5 @@ This will checkout all of the modules in a detached state so before working on o
 + **[Migration Tool](https://github.com/PropelJS/migration-tool.git)**
   _Migration tool for PropelJS_
   https://github.com/PropelJS/migration-tool.git
+
 ---
