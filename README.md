@@ -548,4 +548,40 @@ This will checkout all of the modules in a detached state so before working on o
   _Migration tool for PropelJS_
   https://github.com/PropelJS/migration-tool.git
 
+
++ **[EsComplex JS](https://github.com/PropelJS/escomplex-js.git)**
+  _Fork of escomplex-js adding harmony support_
+  https://github.com/PropelJS/escomplex-js.git
+
+
++ **[Gulp Complexity](https://github.com/PropelJS/gulp-complexity.git)**
+  _Public fork of gulp-complexity adding harmony support_
+  https://github.com/PropelJS/gulp-complexity.git
+
+
++ **[Gulp EsComplex](https://github.com/PropelJS/gulp-escomplex.git)**
+  _Public fork of gulp-escomplex adding harmony support_
+  https://github.com/PropelJS/gulp-escomplex.git
+
+
++ **[Gulp JSCS](https://github.com/PropelJS/gulp-jscs.git)**
+  _Public fork of gulp-jscs adding harmony support_
+  https://github.com/PropelJS/gulp-jscs.git
+
+
++ **[Gulp JSValidate](https://github.com/PropelJS/gulp-jsvalidate.git)**
+  _Public fork of gulp-jsvalidate adding harmony support_
+  https://github.com/PropelJS/gulp-jsvalidate
+
+
++ **[Gulp Plato](https://github.com/PropelJS/gulp-plato.git)**
+  _Public fork of gulp-plato adding harmony support_
+  https://github.com/PropelJS/gulp-plato.git
+
+
++ **[Plato](https://github.com/PropelJS/plato.git)**
+  _Public fork of plato adding harmony support_
+  https://github.com/PropelJS/plato.git
+
+
 ---

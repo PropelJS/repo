@@ -22,3 +22,11 @@
 	path = plato
 	url = https://github.com/PropelJS/plato.git
 	branch = master
+[submodule "gulp-plato"]
+	path = gulp-plato
+	url = https://github.com/PropelJS/gulp-plato.git
+	branch = master
+[submodule "gulp-escomplex"]
+	path = gulp-escomplex
+	url = https://github.com/PropelJS/gulp-escomplex.git
+	branch = master
