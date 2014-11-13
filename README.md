@@ -18,6 +18,16 @@ This will checkout all of the modules in a detached state so before working on o
 
 ---
 
++ **[Benchmark](https://github.com/PropelJS/benchmark.git)**
+  _Benchmarking command line and api for node modules_
+  https://github.com/PropelJS/benchmark.git
+
+
++ **[Usage](https://github.com/PropelJS/usage.git)**
+  _Memory and CPU usage testing utility for node modules_
+  https://github.com/PropelJS/usage.git
+
+
 + **[Version Check](https://github.com/PropelJS/version-check.git)**
   _Module to see what the most recent version of a module is_
   https://github.com/PropelJS/version-check.git
