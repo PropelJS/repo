@@ -2,6 +2,20 @@
 
 ##Submodule Container for PropelJS##
 
+###Todo###
+1) Add readme to gen
+2) Add readme to gulp-module
+3) Implement benchmark
+4) Add benchmark to gulp-module
+5) Implement usage
+6) Add usage to gulp-module
+7) Finish gulp-server
+8) Implement require
+9) Implement IOC
+10) Implement Config
+11) Start developing Server
+12) See documentation on google docs
+
 ###Usage###
 
 ``` shell
@@ -17,6 +31,11 @@ This will checkout all of the modules in a detached state so before working on o
 ###Modules###
 
 ---
+
++ **[Gen](https://github.com/PropelJS/gen.git)**
+  _Flow control with generators based on bluebird_
+  https://github.com/PropelJS/gen.git
+
 
 + **[Benchmark](https://github.com/PropelJS/benchmark.git)**
   _Benchmarking command line and api for node modules_

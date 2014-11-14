@@ -42,3 +42,7 @@
 	path = usage
 	url = https://github.com/PropelJS/usage.git
 	branch = master
+[submodule "gen"]
+	path = gen
+	url = https://github.com/PropelJS/gen.git
+	branch = master
