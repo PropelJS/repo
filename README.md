@@ -3,18 +3,16 @@
 ##Submodule Container for PropelJS##
 
 ###Todo###
-1) Add readme to gen
-2) Add readme to gulp-module
-3) Implement benchmark
-4) Add benchmark to gulp-module
-5) Implement usage
-6) Add usage to gulp-module
-7) Finish gulp-server
-8) Implement require
-9) Implement IOC
-10) Implement Config
-11) Start developing Server
-12) See documentation on google docs
+1) Implement benchmark - current
+2) Add benchmark to gulp-module
+3) Implement usage
+4) Add usage to gulp-module
+5) Finish gulp-server
+6) Implement require
+7) Implement IOC
+8) Implement Config
+9) Start developing Server
+10) See documentation on google docs
 
 ###Usage###
 
@@ -26,7 +24,8 @@ git submodule init
 git submodule update
 ```
 
-This will checkout all of the modules in a detached state so before working on one be sure you checkout the appropriate branch
+This will checkout all of the modules in a detached state so before working on one be sure you checkout the
+appropriate branch
 
 ###Modules###
 

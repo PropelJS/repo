@@ -42,3 +42,7 @@
 	path = gen
 	url = https://github.com/PropelJS/gen.git
 	branch = master
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/PropelJS/benchmark.git
+	branch = master
