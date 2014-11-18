@@ -50,3 +50,7 @@
 	path = force-harmony
 	url = https://github.com/PropelJS/force-harmony.git
 	branch = master
+[submodule "timer"]
+	path = timer
+	url = https://github.com/PropelJS/timer.git
+	branch = master

@@ -3,12 +3,13 @@
 ##Submodule Container for PropelJS##
 
 ###Todo###
-1) Implement benchmark - current
-2) Add benchmark to gulp-module
-3) Implement usage
-4) Add usage to gulp-module
-5) Finish gulp-server
-6) Add readme to gen module
+0) Update all modules to use gulp-module
+1) Add readme to gen module
+2) Implement benchmark - current
+3) Add benchmark to gulp-module
+4) Implement usage
+5) Add usage to gulp-module
+6) Finish gulp-server
 7) Implement require
 8) Implement IOC
 9) Implement Config
@@ -611,6 +612,16 @@ appropriate branch
 + **[Plato](https://github.com/PropelJS/plato.git)**
   _Public fork of plato adding harmony support_
   https://github.com/PropelJS/plato.git
+
+
++ **[Force Harmony](https://github.com/PropelJS/force-harmony.git)**
+  _Utility for node scripts to enforce the harmony flag_
+  https://github.com/PropelJS/force-harmony.git
+
+
++ **[Timer](https://github.com/PropelJS/timer.git)**
+  _High resolution timer library_
+  https://github.com/PropelJS/timer.git
 
 
 ---
