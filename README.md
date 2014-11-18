@@ -8,11 +8,12 @@
 3) Implement usage
 4) Add usage to gulp-module
 5) Finish gulp-server
-6) Implement require
-7) Implement IOC
-8) Implement Config
-9) Start developing Server
-10) See documentation on google docs
+6) Add readme to gen module
+7) Implement require
+8) Implement IOC
+9) Implement Config
+10) Start developing Server
+11) See documentation on google docs
 
 ###Usage###
 

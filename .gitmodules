@@ -46,3 +46,7 @@
 	path = benchmark
 	url = https://github.com/PropelJS/benchmark.git
 	branch = master
+[submodule "force-harmony"]
+	path = force-harmony
+	url = https://github.com/PropelJS/force-harmony.git
+	branch = master
