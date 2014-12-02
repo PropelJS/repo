@@ -3,18 +3,16 @@
 ##Submodule Container for PropelJS##
 
 ###Todo###
-0) Update all modules to use gulp-module
-1) Add readme to gen module
-2) Implement benchmark - current
-3) Add benchmark to gulp-module
-4) Implement usage
-5) Add usage to gulp-module
-6) Finish gulp-server
-7) Implement require
-8) Implement IOC
-9) Implement Config
-10) Start developing Server
-11) See documentation on google docs
+
+1) Implement usage
+2) Create readme for usage
+3) Add usage to gulp-module
+4) Finish gulp-server
+5) Implement require
+6) Implement IOC
+7) Implement Config
+8) Start developing Server
+9) See documentation on google docs for next items
 
 ###Usage###
 
