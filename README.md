@@ -14,6 +14,29 @@
 8) Start developing Server
 9) See documentation on google docs for next items
 
+browser support
+ie8+ (should still function on ie7)
+latest chrome, firefox, opera, and safari
+
+resolution
+1366x768
+1920x1080
+1024x768
+1280x800
+1440x900
+1280x1024
+1600x900
+1680x1050
+1360x768
+1280x720
+
+mobile browsers
+chrome
+iphone
+android
+uc browser
+opera
+
 ###Usage###
 
 ``` shell
